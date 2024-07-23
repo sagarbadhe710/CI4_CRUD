@@ -1,0 +1,9 @@
+create database name 'creato'
+  use this imported table named as "users"
+  import on ur phpmyadmin 
+
+
+  go to your database.php file in the app/config/database.php
+
+database="creato"
+username="root"
